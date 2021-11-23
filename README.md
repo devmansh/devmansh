@@ -22,10 +22,10 @@
 <a href="https://instagram.com/themohitsharma.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themohitsharma" height="30" width="40" /></a>
 </p>
 
-<img align="right" height="300" width="300" alt="GIF" src="43885-laptop-working.gif" />
+<img align="right" height="300" width="250" alt="GIF" src="43885-laptop-working.gif" />
 
 ![Manoj's Status](https://github-readme-stats.vercel.app/api?username=devmansh&show_icons=true&hide_border=true)
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmansh&show_icons=true&locale=en&layout=compact" alt="devmansh" /></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmansh&show_icons=true&locale=en&layout=compact" alt="devmansh" /></p>
 <br/><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmansh&" alt="devmansh" /></p>
 <br/>
 <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devmansh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
