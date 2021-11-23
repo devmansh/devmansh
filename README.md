@@ -1,22 +1,18 @@
-### Hi there 👋 I'm [Manoj Sharma](https://devmansh.github.io/)!
-
-<!--
-**devmansh/devmansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-Here are some ideas to get you started:
+### Hi there <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif"> I'm [Manoj Sharma](https://devmansh.github.io/)!
 
 ![Profile views](https://gpvc.arturio.dev/devmansh)
 <p align="left"> <a href="https://twitter.com/itsmanoj_in" target="blank"><img src="https://img.shields.io/twitter/follow/itsmanoj_in?logo=twitter&style=for-the-badge" alt="itsmanoj_in" /></a></p>
 
-- 👨‍🎓  ***Computer Science Engineering*** undergraduate student.
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
+## Computer Science and Engineering UnderGraduate Student  
+
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 👨‍💻 Currently working on ***Web & Android Development***
-- 🌐 Currently exploring ***Flutter***
-- 👯 Looking to collaborate on ***Android Development***
+- 📚 Currently exploring ***Flutter*** 😅
 - 💬 Ask me about ***Python, PHP, Java***
 - 🌐 How to reach me: [Manoj Sharma](http://mansh.lovestoblog.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: Create variety of ways to do a task.
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -26,10 +22,10 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/themohitsharma.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themohitsharma" height="30" width="40" /></a>
 </p>
 
-![Manoj's Status](https://github-readme-stats.vercel.app/api?username=devmansh&show_icons=true&hide_border=true)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmansh&show_icons=true&locale=en&layout=compact" alt="devmansh" /></p>
-<br/>
+<img align="right" height="300" width="300" alt="GIF" src="43885-laptop-working.gif" />
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmansh&" alt="devmansh" /></p>
+![Manoj's Status](https://github-readme-stats.vercel.app/api?username=devmansh&show_icons=true&hide_border=true)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmansh&show_icons=true&locale=en&layout=compact" alt="devmansh" /></p>
+<br/><p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmansh&" alt="devmansh" /></p>
 <br/>
 <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devmansh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
