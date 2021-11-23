@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/themohitsharma.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themohitsharma" height="30" width="40" /></a>
 </p>
 
-![Manoj"s Status](https://github-readme-stats.vercel.app/api?username=devmansh&show_icons=true&hide_border=true)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmansh&show_icons=true&locale=en&layout=compact" alt="devmansh" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmansh&" alt="devmansh" /></p>
+![Manoj's Status](https://github-readme-stats.vercel.app/api?username=devmansh&show_icons=true&hide_border=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmansh&show_icons=true&locale=en&layout=compact" alt="devmansh" /></p>
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmansh&" alt="devmansh" /></p>
 <br/>
 <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devmansh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
