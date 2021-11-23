@@ -10,16 +10,16 @@ Here are some ideas to get you started:
 
 - 👨‍🎓  ***Computer Science Engineering*** undergraduate student.
 - 👨‍💻 ***#SelfTaught*** Developer.
-- 👨‍💻 I’m currently working on ***Web & Android Development***
-- 🌐 I’m currently exploring ***Flutter***
-- 👯 I’m looking to collaborate on ***Android Development***
+- 👨‍💻 Currently working on ***Web & Android Development***
+- 🌐 Currently exploring ***Flutter***
+- 👯 Looking to collaborate on ***Android Development***
 - 💬 Ask me about ***Python, PHP, Java***
-- 📫 How to reach me: ... [Manoj Sharma](http://mansh.lovestoblog.com)
-- 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... 
+- 🌐 How to reach me: [Manoj Sharma](http://mansh.lovestoblog.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: 
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/itsmanoj_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmanoj_in" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/itsmanoj_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manojsharma" height="30" width="40" /></a>
 <a href="https://fb.com/themohitsharma.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="themohitsharma.in" height="30" width="40" /></a>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </p>
 
 ![Manoj"s Status](https://github-readme-stats.vercel.app/api?username=devmansh&show_icons=true&hide_border=true)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmansh&show_icons=true&locale=en&layout=compact" alt="devmansh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmansh&" alt="devmansh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmansh&show_icons=true&locale=en&layout=compact" alt="devmansh" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmansh&" alt="devmansh" /></p>
 <br/>
 <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devmansh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
