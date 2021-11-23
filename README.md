@@ -22,7 +22,7 @@
 <a href="https://instagram.com/themohitsharma.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themohitsharma" height="30" width="40" /></a>
 </p>
 
-<img align="right" height="200" width="230" alt="GIF" src="43885-laptop-working.gif" />
+<img align="right" height="211" width="240" alt="GIF" src="43885-laptop-working.gif" />
 
 ![Manoj's Status](https://github-readme-stats.vercel.app/api?username=devmansh&show_icons=true&hide_border=true)
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmansh&show_icons=true&locale=en&layout=compact" alt="devmansh" /></p>
