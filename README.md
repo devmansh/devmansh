@@ -1,10 +1,9 @@
 ### Hi there <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif"> I'm [Manoj Sharma](https://devmansh.github.io/)!
 
 ![Profile views](https://gpvc.arturio.dev/devmansh)
-<p align="left"> <a href="https://twitter.com/itsmanoj_in" target="blank"><img src="https://img.shields.io/twitter/follow/itsmanoj_in?logo=twitter&style=for-the-badge" alt="itsmanoj_in" /></a></p>
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=pssports.in.net&style=for-the-badge&url=https%3A%2F%2Fpssports.in.net)](https://pssports.in.net)
+[![Twitter Follow](https://img.shields.io/twitter/follow/itsmanoj_in?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevmansh&screen_name=Itsmanoj_in)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
