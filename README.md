@@ -13,7 +13,7 @@
 - 👨‍💻 Currently working on ***Web & Android Development***
 - 📚 Currently exploring ***Flutter*** 😅
 - 💬 Ask me about ***Python, PHP, Java***
-- 🌐 How to reach me: [Manoj Sharma](http://devmansh.github.io)
+- 🌐 How to reach me: [Manoj Sharma](https://themohitsharma.in)
 - ⚡ Fun fact: Create variety of ways to do a task.
 
 <h3 align="center">Connect with me:</h3>
