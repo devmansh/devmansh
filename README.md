@@ -11,16 +11,16 @@
 
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 👨‍💻 Currently working on ***Web & Android Development***
-- 📚 Currently exploring ***Flutter*** 😅
-- 💬 Ask me about ***Python, PHP, Java***
-- 🌐 How to reach me: [Manoj Sharma](https://devmansh.github.io)
-- ⚡ Fun fact: Create variety of ways to do a task.
+- 📚 Currently exploring ***Main Frame***
+- 💬 Ask me about ***Python, Django, PHP, Java***
+- 🌐 How to reach me: [Manoj Sharma](http://mansh.lovestoblog.com)
+- ⚡ Fun fact: - I love to create various ways to do a task.   
+- ⚡ Intrested In: - Investments
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/itsmanoj_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmanoj_in" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/itsmanoj_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manojsharma" height="30" width="40" /></a>
-<a href="https://fb.com/themohitsharma.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="themohitsharma.in" height="30" width="40" /></a>
+<a href="https://fb.com/itsmohit.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="themohitsharma.in" height="30" width="40" /></a>
 <a href="https://instagram.com/themohitsharma.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themohitsharma" height="30" width="40" /></a>
 </p>
 
