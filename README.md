@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/devmansh)
 
-[![Website](https://img.shields.io/website?label=pssports.in.net&style=for-the-badge&url=https%3A%2F%2Fpssports.in.net)](https://pssports.in.net)
+[![Website](https://img.shields.io/website?label=devmansh.github.io&style=for-the-badge&url=https%3A%2F%2Fpssports.in.net)](https://pssports.in.net)
 [![Twitter Follow](https://img.shields.io/twitter/follow/itsmanoj_in?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fdevmansh&screen_name=Itsmanoj_in)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
@@ -12,10 +12,10 @@
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 👨‍💻 Currently working on ***Web & Android Development***
 - 📚 Currently exploring ***Main Frame***
-- 💬 Ask me about ***Python, Django, PHP, Java***
-- 🌐 How to reach me: [Manoj Sharma](http://mansh.lovestoblog.com)
-- ⚡ Fun fact: - I love to create various ways to do a task.   
-- ⚡ Intrested In: - Investments
+- 💬 Ask me about ***Python, Django, C++***
+- 🌐 How to reach me: [Manoj Sharma](https://www.linkedin.com/in/devmansh/)
+- ⚡ Fun fact: I love to create various ways to do a task.   
+- ⚡ Intrested In: Investments
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
