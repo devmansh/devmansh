@@ -10,7 +10,7 @@
 
 - 👨‍💻 ***#SelfTaught*** Developer.
 - 👨‍💻 Currently working on ***Web & Android Development***
-- 📚 Currently exploring ***Main Frame***
+- 📚 Currently exploring ***.Net***
 - 💬 Ask me about ***Python, Django, C++***
 - 🌐 How to reach me: [Manoj Sharma](https://www.linkedin.com/in/devmansh/)
 - ⚡ Fun fact: I love to create various ways to do a task.   
@@ -18,11 +18,11 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/itsmanoj_in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsmanoj_in" height="30" width="40" /></a>
-<a href="https://fb.com/itsmohit.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="themohitsharma.in" height="30" width="40" /></a>
-<a href="https://instagram.com/themohitsharma.in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="themohitsharma" height="30" width="40" /></a>
+<a href="https://twitter.com/itsmanoj.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="manojsharma" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devmansh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manojsharma" height="30" width="40" /></a>
+<a href="https://instagram.com/themohitsharma.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="manojsharma" height="30" width="40" /></a>
+<a href="https://fb.com/itsmohit.in" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="themohitsharma.in" height="30" width="40" /></a>
 </p>
-
 
 ### Languages and Tools:
 
