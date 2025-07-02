@@ -63,8 +63,8 @@
 
 ## 📌 Featured Projects
 
-- 🔗 [**Portfolio**](https://github.dxc.com/msharma389/myportfolio): Portfolio developed using .net, asp.net (mvc).
-- 🔗 [**TodoApp_GUI**](https://github.dxc.com/msharma389/TodoAPP_GUI): C# dotnet winform Project.
-- 🔗 [**msharma389**](https://github.dxc.com/msharma389/msharma389): Github account readme.
+- 🔗 [**Portfolio**](https://github.com/devmansh/Portfolio): Portfolio developed using html, css, js, bootstrap, python and django.
+- 🔗 [**LearnKaro**](https://github.dxc.com/devmansh/LEarnKaro): An Android App which makes learning fun and earning.
+- 🔗 [**Atlete**](https://github.com/devmansh/Atlete): Atlete's a fully functional ecommerce site built with Python and Django offering ecom, blogs and news.
 
 ---
