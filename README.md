@@ -49,13 +49,22 @@
 <br />
 <br />
 
-<img align="right" height="211" width="240" alt="GIF" src="43885-laptop-working.gif" />
+
 
 ## 📊 GitHub Stats
 
 ![Manoj's Status](https://github-readme-stats.vercel.app/api?username=devmansh&show_icons=true&hide_border=true)
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devmansh&show_icons=true&locale=en&layout=compact" alt="devmansh" /></p>
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmansh&layout=compact)
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devmansh&" alt="devmansh" /></p>
-<br/>
-<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=devmansh&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+
+<img align="right" height="211" width="240" alt="GIF" src="43885-laptop-working.gif" />
+
+---
+
+## 📌 Featured Projects
+
+- 🔗 [**Portfolio**](https://github.dxc.com/msharma389/myportfolio): Portfolio developed using .net, asp.net (mvc).
+- 🔗 [**TodoApp_GUI**](https://github.dxc.com/msharma389/TodoAPP_GUI): C# dotnet winform Project.
+- 🔗 [**msharma389**](https://github.dxc.com/msharma389/msharma389): Github account readme.
+
+---
